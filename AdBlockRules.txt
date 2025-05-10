@@ -7,15 +7,15 @@ ed.tc
 ezstat.ru
 iplis.ru
 iplog.co
-lolz.live##.axsBackground:style(display: none !important;)
-lolz.live##.hasUnreadArticles:style(display: none !important;)
-lolz.live##.panel.Notice.DismissParent.notice_34:style(display: none !important;)
-lolz.live##.section.monthMaecenas:style(display: none !important;)
-lolz.live##.text_Ads.mn-0-0-15:style(display: none !important;)
-lolz.live##a[href="https://xenforo.com"]:style(display: none !important;)
+lolz.live##.axsBackground
+lolz.live##.hasUnreadArticles
+lolz.live##.panel.Notice.DismissParent.notice_34
+lolz.live##.section.monthMaecena
+lolz.live##.text_Ads.mn-0-0-15
+lolz.live##a[href="https://xenforo.com"]
 lolz.live##b#NavigationAccountUsername:style(display: block !important)
 lolz.live##div.pageContent:nth-child(3):style(width: 60% !important)
-lolz.live##li[data-author="Реклама"]:style(display: none !important;)
+lolz.live##li[data-author="Реклама"]
 lzt.market##div.pageContent:nth-child(4):style(width: 63% !important)
 maper.info
 niks.dev
