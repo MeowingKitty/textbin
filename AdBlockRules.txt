@@ -20,3 +20,4 @@ lolz.live##.section.monthMaecena
 lolz.live##.text_Ads.mn-0-0-15
 lolz.live##a[href="https://xenforo.com"]
 lolz.live##li[data-author="Реклама"]
+lzt.market##.Market_Up_Header.PageContainer
