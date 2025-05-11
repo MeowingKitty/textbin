@@ -1,36 +1,22 @@
-/^https?:\/\/[^\/]*iplogger[^\/]*\//
-2no.co
-4pda.to###XVuTZpHQ31
-bc.ax
-dzen.ru
-ed.tc
-ezstat.ru
-iplis.ru
-iplog.co
+||ntc.party/stylesheets/desktop_theme_1_eb5fa8cd91a0dc302a17a3a9e1216052275104bf.css$stylesheet
+||2no.co^
+||bc.ax^
+||dzen.ru^
+||ed.tc^
+||ezstat.ru^
+||iplis.ru^
+||iplog.co^
+||maper.info^
+||niks.dev^
+||only-fans.me^
+||only-fans.uk^
+||onlyfans.wtf^
+||wl.gl^
+||yip.su^
 lolz.live##.axsBackground
 lolz.live##.hasUnreadArticles
 lolz.live##.panel.Notice.DismissParent.notice_34
 lolz.live##.section.monthMaecena
 lolz.live##.text_Ads.mn-0-0-15
 lolz.live##a[href="https://xenforo.com"]
-lolz.live##b#NavigationAccountUsername:style(display: block !important)
-lolz.live##div.pageContent:nth-child(3):style(width: 60% !important)
 lolz.live##li[data-author="Реклама"]
-lzt.market##div.pageContent:nth-child(4):style(width: 63% !important)
-maper.info
-niks.dev
-ntc.party##.like-count:style(display: block !important)
-ntc.party##.like:style(display: block !important)
-only-fans.me
-only-fans.uk
-onlyfans.wtf
-wl.gl
-yip.su
-youtube.com##+js(ra, hidden, ytd-rich-item-renderer, stay)
-youtube.com##+js(set-attr, ytd-rich-shelf-renderer, is-show-more-hidden)
-youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-game-cards-per-row: 7 !important;)
-youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-slim-items-per-row: 7 !important;)
-youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 5 !important;)
-youtube.com##ytd-rich-grid-renderer:style(--ytd-rich-grid-posts-per-row: 5 !important;)
-youtube.com##ytd-two-column-browse-results-renderer.grid-6-columns:style(width: 100% !important;)
-youtube.com##ytd-two-column-browse-results-renderer.grid:not(.grid-disabled):style(max-width: 100% !important;)
