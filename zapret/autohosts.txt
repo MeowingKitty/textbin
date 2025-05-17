@@ -1,4 +1,5 @@
 7tv.app
+admanmedia.com
 adtidy.org
 amnezia.org
 ampproject.org
@@ -6,6 +7,7 @@ appspot.com
 avira.com
 botnadzor.org
 bsky.app
+cdn77.com
 cdninstagram.com
 censorship.no
 censortracker.org
@@ -24,10 +26,12 @@ fbcdn.net
 fbsbx.com
 ficbook.net
 files.catbox.moe
+gekkk.co
 gentoo.org
 ggpht.com
 godaddy.com
 googlevideo.com
+imagedelivery.net
 instagram.com
 jnn-pa.googleapis.com
 jut.su
@@ -52,6 +56,7 @@ play.google.com
 prnt.sc
 proton.me
 protonmail.com
+protonvpn.com
 quora.com
 rentry.co
 riseup.net
@@ -60,13 +65,16 @@ rustdesk.com
 rutracker.org
 signal.org
 soundcloud.com
+sourceproject.ru
 t.co
+te-st.org
 tomshardware.com
 torproject.org
 twimg.com
 twitter.com
 vector.im
 viber.com
+vivaldistatus.com
 wide-youtube.l.google.com
 wixmp.com
 x.com
@@ -82,7 +90,3 @@ ytimg.com
 ytimg.l.google.com
 zelenka.guru
 znanija.com
-
-protonvpn.com
-te-st.org
-vivaldistatus.com
